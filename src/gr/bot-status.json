@@ -1,0 +1,7 @@
+{
+    "STATUS_STATE": "Κατάσταση: %s",
+    "STATUS_WORKING": "Λειτουργικό",
+    "STATUS_ISSUES": "Πρόβλημα",
+    "VERSION": "Έκδοση: v%s",
+    "MORE_DETAILS": "Περισότερες λεπτομέριες"
+}

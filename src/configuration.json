@@ -1,14 +1,20 @@
 {
-    "en":{
-        "C-CODE": "en",
-        "CODE": "en",
-        "HEADER": "en-US",
-        "DIR": "en"
-    },
-    "zh_hans":{
-        "C-CODE": "zh_hans",
-        "CODE": "zh-Hans",
-        "HEADER": "zh-Hans-CN",
-        "DIR": "zh_hans"
-    }
+	"en":{
+		"C-CODE": "en",
+		"CODE": "en",
+		"HEADER": "en-US",
+		"DIR": "en"
+	},
+	"zh_hans":{
+		"C-CODE": "zh_hans",
+		"CODE": "zh-Hans",
+		"HEADER": "zh-Hans-CN",
+		"DIR": "zh_hans"
+	},
+	"gr":{
+		"C-CODE": "gr",
+		"CODE": "gr",
+		"HEADER": "gr-GR",
+		"DIR": "gr"
+	}
 }

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Intellivoid - OpenBlu δωρεάν VPN",
+    "CONTENT_TITLE": "OpenBlu",
+    "CONTENT_DESCRIPTION": "Το καλύτερο δωρεάν VPN για όλους",
+    "OPENBLU_TITLE": "Τι είναι το OpenBlu;",
+    "FEATURE_0_TITLE": "Εμφάνιση Περιεχομένου",
+    "FEATURE_0_DESCRIPTION": "Όπως κάθε άλλο VPN, έχετε την ικανότητα να μεταφέρετε την σύνδεση σας σε ένα απομακρυσμένο server, επιτρέποντας σας να δείτε περιεχόμενο που θα ήταν απαγορευμένο για εσάς"",
+    "FEATURE_1_TITLE": "Απεριόριστα Servers",
+    "FEATURE_1_DESCRIPTION": "Το OpenBlu θα αλλάζει την λίστα με τα server του κάθε ώρα, επιτρέποντας σας να συνδεθείτε σε διαφορετικά servers χωρις περιορισμό σε λίγα μόνο",
+    "FEATURE_2_TITLE": "Ειναι δωρεάν!",
+    "FEATURE_2_DESCRIPTION": "Οι χρήστες του OpenBlu έχουν δωρεάν πρόσβαση χωρίς περιορισμούς στην προσωπική τους χρήση, όμως αμα θέλετε να χρησιμοποιήσετε το  OpenBlu σε κάποια εφαρμογή ή υπηρεσία σας, θα πρέπει να πληρώσετε",
+    "API_TITLE": "OpenBlu API",
+    "API_DESCRIPTION": "Ανακτήστε λίστες server και αρχεία ρυθμίσεων του OpenVPN απο το OpenBlu API επιτρέποντας σας να χρησημοποιήσετε ενα VPN σε ενα πρόργαμμα ή υπηρεσία σας",
+    "API_LINK": "Επερχόμενα...",
+    "DOWNLOAD_TITLE": "Ετοιμοι να το αποκτησετε΄;",
+    "DOWNLOAD_DESCRIPTION": "Για να κατεβάσετε το OpenBlu, προτείνουμε να κατεβάσετε και να εγκαταστήσετε το OpenVPN επίσης αφού η εγκατάστασή του OpenBlu δεν σας παρέχει το OpenVPN",
+    "DOWNLOAD_BUTTON": "Κατεβάστε το OpenBlu (.msi)",
+    "DOWNLOAD_OPENVPN_BUTTON": "Κατεβάστε το OpenVPN",
+    "DOCUMENTATION_BUTTON": "PDF οδηγιών (EN)"
+}

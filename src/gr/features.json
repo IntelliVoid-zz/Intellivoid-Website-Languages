@@ -1,0 +1,20 @@
+{
+    "SLIDE_NEXT": "Επόμενο",
+    "SLIDE_PREVIOUS": "Προηγούμενο",
+    "SLIDE_WEB": "HTML5 Υποστηριζόμενος Περιηγητής Διαδικτύου",
+    "SLIDE_INFO": "Παραγωγή Αληθοφανών Πληροφοριών",
+    "SLIDE_EMAIL": "Δωρεάν Επιβεβαίωση e-mail",
+    "SLIDE_VPN": "Ενσωματωμένη Open Blu VPN Υποστήριξη",
+    "ABOUT_SYSTEM_REQUIREMENTS": "Απαιτούμενο hardware",
+    "REQUIREMENTS_RAM": "Ελάχιστο 1gb RAM",
+    "REQUIREMENTS_OS": "Microsoft Windows 7/8/8.1/10 (x86/x64)",
+    "REQUIREMENTS_FRAMEWORK": ".NET Framework 4.5+",
+    "REQUIREMENTS_DISK": "250mb Χώρος στο δ;iσκο",
+    "REQUIREMENTS_GPU": "Κατάληλους οδηγούς βίντεο εγκατεστημένους για σωστή παραγωγή οπτικών",
+    "REQUIREMENTS_CPU": "Υποστηριζόμενο CPU με ελάχιστους 2 πυρήνες",
+    "REQUIREMENTS_INTERNET": "Σύνδεση στο ίντερνετ",
+    "SOFTWARE_DOWNLOAD": "Κατέβασμα λογισμικού",
+    "DOWNLOAD_BUTTON": "Κατέβασμα",
+    "DOWNLOAD_BUTTON_ALT": "Κατέβασμα (.msi)",
+    "DOCUMENTATION_BUTTON": "PDF Οδηγος (EN)"
+}
