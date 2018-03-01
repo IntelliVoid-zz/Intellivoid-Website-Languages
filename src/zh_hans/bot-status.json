@@ -1,0 +1,7 @@
+{
+    "STATUS_STATE": "状态：%s",
+    "STATUS_WORKING": "加工",
+    "STATUS_ISSUES": "有问题",
+    "VERSION": "版本：v%s",
+    "MORE_DETAILS": "更多细节"
+}

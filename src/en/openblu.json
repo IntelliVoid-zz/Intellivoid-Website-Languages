@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Intellivoid - OpenBlu free VPN",
+    "CONTENT_TITLE": "OpenBlu",
+    "CONTENT_DESCRIPTION": "The best and free VPN solution for everyone",
+    "OPENBLU_TITLE": "What is OpenBlu?",
+    "FEATURE_0_TITLE": "Unblock Content",
+    "FEATURE_0_DESCRIPTION": "Just like any other VPN, you have the ability to tunnel your connection to another remote server allowing you to view content that would be blocked for you",
+    "FEATURE_1_TITLE": "Unlimited Servers",
+    "FEATURE_1_DESCRIPTION": "OpenBlu will often update it's server listings every hour allowing you to connect to different servers without having to be restricted to a selective few",
+    "FEATURE_2_TITLE": "It's Free!",
+    "FEATURE_2_DESCRIPTION": "The OpenBlu clients are free to use without any limitations for personal use purposes, if you'd like to implement OpenBlu into your Application or Service, you need to pay a fee",
+    "API_TITLE": "OpenBlu API",
+    "API_DESCRIPTION": "Retrieve server listings and OpenVPN configuration files from the OpenBlu API allowing you to impalement a VPN solution to your Software or Service",
+    "API_LINK": "Coming soon...",
+    "DOWNLOAD_TITLE": "Ready to download?",
+    "DOWNLOAD_DESCRIPTION": "To download OpenBlu, we recommend to download and install OpenVPN as well since the OpenBlu installation does not come equipped with OpenVPN",
+    "DOWNLOAD_BUTTON": "Download OpenBlu (.msi)",
+    "DOWNLOAD_OPENVPN_BUTTON": "Download OpenVPN",
+    "DOCUMENTATION_BUTTON": "PDF Documentation (EN)"
+}

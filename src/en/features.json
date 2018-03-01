@@ -1,0 +1,20 @@
+{
+    "SLIDE_NEXT": "Next",
+    "SLIDE_PREVIOUS": "Previous",
+    "SLIDE_WEB": "HTML5 Supported Web Browser",
+    "SLIDE_INFO": "Realistic information generator",
+    "SLIDE_EMAIL": "Free e-mail verification",
+    "SLIDE_VPN": "Integrated OpenBlu VPN support",
+    "ABOUT_SYSTEM_REQUIREMENTS": "System Requirements",
+    "REQUIREMENTS_RAM": "Minimum 1gb of RAM",
+    "REQUIREMENTS_OS": "Microsoft Windows 7/8/8.1/10 (x86/x64)",
+    "REQUIREMENTS_FRAMEWORK": ".NET Framework 4.5+",
+    "REQUIREMENTS_DISK": "250mb of Disk Space",
+    "REQUIREMENTS_GPU": "Appropriate video drivers installed to render the visuals correctly",
+    "REQUIREMENTS_CPU": "Supported CPU with a minimum of 2 Cores",
+    "REQUIREMENTS_INTERNET": "Internet Connection",
+    "SOFTWARE_DOWNLOAD": "Download Software",
+    "DOWNLOAD_BUTTON": "Download",
+    "DOWNLOAD_BUTTON_ALT": "Download (.msi)",
+    "DOCUMENTATION_BUTTON": "PDF Documentation (EN)"
+}

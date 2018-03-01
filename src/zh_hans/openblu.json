@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Intellivoid - OpenBlu免费VPN",
+    "CONTENT_TITLE": "OpenBlu",
+    "CONTENT_DESCRIPTION": "为每个人提供最好的免费VPN解决方案",
+    "OPENBLU_TITLE": "什么是OpenBlu？",
+    "FEATURE_0_TITLE": "取消阻止内容",
+    "FEATURE_0_DESCRIPTION": "就像任何其他VPN一样，您可以将连接隧道到另一台远程服务器，以便查看将被阻止的内容",
+    "FEATURE_1_TITLE": "无限服务器",
+    "FEATURE_1_DESCRIPTION": "OpenBlu经常会每小时更新一次服务器列表，允许您连接到不同的服务器，而不必受限于少数选择",
+    "FEATURE_2_TITLE": "免费！",
+    "FEATURE_2_DESCRIPTION": "OpenBlu客户可以免费使用，不受任何个人使用限制，如果您想将OpenBlu实施到您的应用程序或服务中，您需要支付费用",
+    "API_TITLE": "OpenBlu API",
+    "API_DESCRIPTION": "从OpenBlu API中检索服务器列表和OpenVPN配置文件，允许您为您的软件或服务攻击VPN解决方案",
+    "API_LINK": "快来了...",
+    "DOWNLOAD_TITLE": "准备下载？",
+    "DOWNLOAD_DESCRIPTION": "要下载OpenBlu，我们建议下载并安装OpenVPN，因为OpenBlu安装不会配备OpenVPN",
+    "DOWNLOAD_BUTTON": "下载OpenBlu（.msi）",
+    "DOWNLOAD_OPENVPN_BUTTON": "下载OpenVPN",
+    "DOCUMENTATION_BUTTON": "PDF文件（EN）"
+}

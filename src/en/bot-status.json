@@ -1,0 +1,7 @@
+{
+    "STATUS_STATE": "State: %s",
+    "STATUS_WORKING": "Working",
+    "STATUS_ISSUES": "Having issues",
+    "VERSION": "Version: v%s",
+    "MORE_DETAILS": "More Details"
+}

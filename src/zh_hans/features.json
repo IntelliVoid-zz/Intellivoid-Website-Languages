@@ -1,0 +1,20 @@
+{
+    "SLIDE_NEXT": "下一个",
+    "SLIDE_PREVIOUS": "以前",
+    "SLIDE_WEB": "HTML5支持的Web浏览器",
+    "SLIDE_INFO": "现实的信息发生器",
+    "SLIDE_EMAIL": "免费电子邮件验证",
+    "SLIDE_VPN": "集成的OpenBlu VPN支持",
+    "ABOUT_SYSTEM_REQUIREMENTS": "系统要求",
+    "REQUIREMENTS_RAM": "最小1GB的RAM",
+    "REQUIREMENTS_OS": "Microsoft Windows 7/8/8.1/10 (x86/x64)",
+    "REQUIREMENTS_FRAMEWORK": ".NET Framework 4.5+",
+    "REQUIREMENTS_DISK": "250MB的磁盘空间",
+    "REQUIREMENTS_GPU": "安装适当的视频驱动程序以正确渲染视觉效果",
+    "REQUIREMENTS_CPU": "支持至少2个核心的CPU",
+    "REQUIREMENTS_INTERNET": "网络连接",
+    "SOFTWARE_DOWNLOAD": "下载软件",
+    "DOWNLOAD_BUTTON": "下载",
+    "DOWNLOAD_BUTTON_ALT": "下载 (.msi)",
+    "DOCUMENTATION_BUTTON": "PDF文件（EN）"
+}
