@@ -4,7 +4,7 @@ This repository contains the language files used to display text on Intellivoid'
 ## How it works
 `configuration.json` contains information about the language and the language code, this is used by the page delivery system to provide the proper headers and HTML format that the browser needs to know to display the text properly
 
-```json
+```
 "en": <-- ref #1
 {
     "C-CODE": "en", <-- Needs to be the same as #1
